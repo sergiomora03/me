@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Sergio Mora Website
+title: Sergio Mora
 
 # Your name to show in the footer
 author: Sergio A. Mora Pardo
@@ -10,10 +10,13 @@ author: Sergio A. Mora Pardo
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  work in progress:
+    - Rpubs: "https://rpubs.com/sergiomora123"
+    - Kyso: "http://kyso.io/sergiomora03"
+    - Github: "https://github.com/sergiomora03"
+    - Kaggle: "https://www.kaggle.com/sergiomora823"
+    - CvLAC: "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001689635"
+  Author's home: "https://sergiomorapardo.com"
 
 # --- Logo --- #
 
@@ -34,12 +37,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "sergiomora823@gmail.com"
+#  facebook: deanattali
+  github: sergiomora03
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/sergiomorapardo/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
