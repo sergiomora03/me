@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Gaussian Mixture Model
-subtitle: From lesson to [**ajpelaezr**](https://github.com/ajpelaezr)
+subtitle: This is the code for Siraj Raval as part of The Math of Intelligence series. 
 cover-img: /assets/img/jeremy-thomas-rMmibFe4czY-unsplash.jpg
 thumbnail-img: /assets/img/gmm.png
 share-img: /assets/img/jeremy-thomas-rMmibFe4czY-unsplash.jpg
+gh-repo: sergiomora03/GMM-Gaussian-Mixture-Models
+gh-badge: [star, fork, follow]
 tags: [analytics, deep-learning, gaussian-mixture-models]
 ---
 
@@ -22,6 +24,8 @@ This is a lesson on Gaussian Mixture Models, they are probability distributions 
 This is useful for modeling more complex data, that has multiple peaks. Sometimes one bell curve isn't enough. We can optimize
 this model for clustering so that we can classify the data into the discovered classes using the Expectation Maximization
 algorithm. 
+
+From lesson to [**ajpelaezr**](https://github.com/ajpelaezr)
 
 ## Notebook
 
