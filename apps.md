@@ -4,14 +4,10 @@ title: Apps
 subtitle: Some applications that I have made in Shiny or Heroku
 ---
 
-# Heroku
-
 ## penguins v1.0
 - Live at: [penguins v0.1](https://penguins-v10.herokuapp.com/)
 - Github: [penguins-heroku](https://github.com/sergiomora03/penguins-heroku)
 - Cloud: [**Heroku**](https://www.heroku.com/)
-
-# Shiny
 
 ## Covid Dashboard V0.1
 - Live at: [covid19_v0.1](https://sergiomora123.shinyapps.io/covid19_dashboard/)
