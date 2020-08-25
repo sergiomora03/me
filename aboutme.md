@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: MSc Analytics. Lead Data Scientist with interest in Machine Learning Systems, NLP and Transfer Learning.
 ---
 
 * github: [sergiomora03](https://github.com/sergiomora03)
