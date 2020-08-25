@@ -1,4 +1,9 @@
-# Class Works
+---
+layout: page
+title: Class Work
+subtitle: Some repositories that I do in the master
+---
+
 
 ## Covid-19
 
