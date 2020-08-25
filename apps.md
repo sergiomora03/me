@@ -21,7 +21,7 @@ subtitle: Some applications that I have made in Shiny or Heroku
 
 ## Survey with Shiny APP
 - Cloud: **Shiny**
-- Github: [Transport-APP](https://sergiomora03.github.io/Transport-APP/)
+- Github: [Survey](https://github.com/sergiomora03/survey)
 - Live at: [Survey](https://samora.shinyapps.io/Survey/)
 
 ## penguins v1.0
