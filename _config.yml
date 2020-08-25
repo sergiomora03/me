@@ -10,6 +10,7 @@ author: Sergio A. Mora Pardo
 
 navbar-links:
   About Me: "aboutme"
+  project: "project"
   Apps: "apps"
   Works:
     - Working Papers: "workingpapers"
