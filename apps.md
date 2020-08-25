@@ -4,10 +4,22 @@ title: Apps
 subtitle: Some applications that I have made in Shiny or Heroku
 ---
 
-Cloud | App | Link
----|---|---
-Shiny | TransportApp | https://sergiomora123.shinyapps.io/TransportApp/
-Shiny | Covid Dashboard V0.1 | https://sergiomora123.shinyapps.io/covid19_dashboard/
-Shiny | Covid Dashboard V0.2 | https://sergiomora123.shinyapps.io/covid_19/
-Shiny | Survey with Shiny APP | https://samora.shinyapps.io/Survey/
-Heroku | penguins v1.0 | https://penguins-v10.herokuapp.com/
+## TransportApp
+- Cloud: **Shiny**
+- Live at: [TransportApp](https://sergiomora123.shinyapps.io/TransportApp/)
+
+## Covid Dashboard V0.1
+- Cloud: **Shiny**
+- Live at: https://sergiomora123.shinyapps.io/covid19_dashboard/
+
+## Covid Dashboard V0.2
+- Cloud: **Shiny**
+- Live at: https://sergiomora123.shinyapps.io/covid_19/
+
+## Survey with Shiny APP
+- Cloud: **Shiny**
+- Live at: https://samora.shinyapps.io/Survey/
+
+## penguins v1.0
+- Cloud: **Heroku**
+- Live at: https://penguins-v10.herokuapp.com/
