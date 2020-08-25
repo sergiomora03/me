@@ -1,3 +1,5 @@
+# Class Works
+
 ## Covid-19
 
 Crear un modelo que permita entender la propagación del SARS-CoV-2, prediciendo la curva de infectados y su duración a lo largo del tiempo en Colombia.
