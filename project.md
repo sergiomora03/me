@@ -22,6 +22,8 @@ You can install ```BannerQuery``` with pip:
 # pip install BannerQuery
 ```
 
+<br>
+
 # Documentation
 
 Documentation is available at http://sergiomora03.github.io/BannerQuery
