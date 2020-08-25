@@ -16,8 +16,8 @@ share-img: /assets/img/jeremy-thomas-rMmibFe4czY-unsplash.jpg
 
 
 ## Link me
-- Github: "https://github.com/sergiomora03"
-- Rpubs: "https://rpubs.com/sergiomora123"
-- Kyso: "http://kyso.io/sergiomora03"
-- Kaggle: "https://www.kaggle.com/sergiomora823"
-- CvLAC: "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001689635"
+- Github: [https://github.com/sergiomora03](https://github.com/sergiomora03)
+- Rpubs: [https://rpubs.com/sergiomora123](https://rpubs.com/sergiomora123)
+- Kyso: [http://kyso.io/sergiomora03](http://kyso.io/sergiomora03)
+- Kaggle: [https://www.kaggle.com/sergiomora823](https://www.kaggle.com/sergiomora823)
+- CvLAC: [https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001689635](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001689635) *Por actualizar*
