@@ -4,27 +4,27 @@ title: Apps
 subtitle: Some applications that I have made in Shiny or Heroku
 ---
 
-## TransportApp
-- Cloud: **Shiny**
-- Github: [Transport-APP](https://sergiomora03.github.io/Transport-APP/)
-- Live at: [TransportApp](https://sergiomora123.shinyapps.io/TransportApp/)
+## penguins v1.0
+- Live at: [penguins v0.1](https://penguins-v10.herokuapp.com/)
+- Github: [penguins-heroku](https://github.com/sergiomora03/penguins-heroku)
+- Cloud: [**Heroku**](https://www.heroku.com/)
 
 ## Covid Dashboard V0.1
-- Cloud: **Shiny**
-- Github: [covid_dashboard](https://sergiomora03.github.io/covid_dashboard/)
 - Live at: [covid19_v0.1](https://sergiomora123.shinyapps.io/covid19_dashboard/)
+- Github: [covid_dashboard](https://sergiomora03.github.io/covid_dashboard/)
+- Cloud: [**Shiny**](https://shiny.rstudio.com/)
 
 ## Covid Dashboard V0.2
-- Cloud: **Shiny**
-- Github: [covid_dashboard](https://sergiomora03.github.io/covid_dashboard/)
 - Live at: [covid_19 v0.2](https://sergiomora123.shinyapps.io/covid_19/)
+- Github: [covid_dashboard](https://sergiomora03.github.io/covid_dashboard/)
+- Cloud: [**Shiny**](https://shiny.rstudio.com/)
+
+## TransportApp
+- Live at: [TransportApp](https://sergiomora123.shinyapps.io/TransportApp/)
+- Github: [Transport-APP](https://sergiomora03.github.io/Transport-APP/)
+- Cloud: [**Shiny**](https://shiny.rstudio.com/)
 
 ## Survey with Shiny APP
-- Cloud: **Shiny**
-- Github: [Survey](https://github.com/sergiomora03/survey)
 - Live at: [Survey](https://samora.shinyapps.io/Survey/)
-
-## penguins v1.0
-- Cloud: **Heroku**
-- Github: [penguins-heroku](https://github.com/sergiomora03/penguins-heroku)
-- Live at: [penguins v0.1](https://penguins-v10.herokuapp.com/)
+- Github: [Survey](https://github.com/sergiomora03/survey)
+- Cloud: [**Shiny**](https://shiny.rstudio.com/)
