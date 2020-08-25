@@ -18,6 +18,7 @@ navbar-links:
   Heroku Apps:
     - penguins v1.0: "https://penguins-v10.herokuapp.com/"
   Working Papers: "workingpapers"
+  Class Work: "classwork"
   Social Networks:
     - Github: "https://github.com/sergiomora03"
     - Rpubs: "https://rpubs.com/sergiomora123"
