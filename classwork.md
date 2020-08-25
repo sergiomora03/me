@@ -97,6 +97,8 @@ Github: [Supply-Chain-Analytics](https://sergiomora03.github.io/Supply-Chain-Ana
 |Optimal Pricing| [Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Pricing.ipynb)|
 |Optimal Capacity| [Notebook](https://github.com/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
 
+<br>
+
 ### Aplicaciones de Programación Lineal y Entera.
 
 |Description|Results|
