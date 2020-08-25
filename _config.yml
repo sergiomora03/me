@@ -10,15 +10,11 @@ author: Sergio A. Mora Pardo
 
 navbar-links:
   About Me: "aboutme"
-  Apps: 
-    - Shiny TransportApp: "https://sergiomora123.shinyapps.io/TransportApp/"
-    - Shiny Covid Dashboard V0.1: "https://sergiomora123.shinyapps.io/covid19_dashboard/"
-    - Shiny Covid Dashboard V0.2: "https://sergiomora123.shinyapps.io/covid_19/"
-    - Survey with Shiny APP: "https://samora.shinyapps.io/Survey/"
-    - Heroku penguins v1.0: "https://penguins-v10.herokuapp.com/"
-  Working Papers: "workingpapers"
-  Class Work: "classwork"
-  Social Networks:
+  Apps: "apps"
+  Works:
+    - Working Papers: "workingpapers"
+    - Class Work: "classwork"
+  Link me:
     - Github: "https://github.com/sergiomora03"
     - Rpubs: "https://rpubs.com/sergiomora123"
     - Kyso: "http://kyso.io/sergiomora03"
