@@ -19,6 +19,7 @@ Contenido:
 |Dashboard|[Shiny V1](https://sergiomora123.shinyapps.io/covid19_dashboard/)|
 |Dashboard|[Shiny V2](https://sergiomora123.shinyapps.io/covid_19/)|
 
+</br>
 
 ## Time Series Analysis: ARIMA, SARIMA, Prophet, LSTM
 
