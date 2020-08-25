@@ -35,6 +35,8 @@ Contenido:
 |Notebook|[Time Series Analysis](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
 |Dataset|[Monthly beer production](https://www.kaggle.com/shenba/time-series-datasets)|
 
+<br>
+
 ## Machine Learning Systems
 
 En el siguiente proyecto se realizan dos modelos de ensambles. El primero, es un meta algorítmo ensamblado en dos fases, donde el primero tiene un ensable de 6 modelos y en la segunda fase un emsamble por una regresión lineal. Y el segundo, es un ensamble construyendo un _Bagging Linear Regression With Boostrap Sustitution_.
@@ -50,6 +52,8 @@ Contenido:
 |API scrpit|[api.py](https://github.com/NecesitoUnNick/P2/blob/master/P2/api.py)|
 |Deployment|[model_deployment.py](https://github.com/NecesitoUnNick/P2/blob/master/P2/model_deployment.py)|
 |Dataset|[Kaggle Dataset](https://www.kaggle.com/jpayne/852k-used-car-listings)|
+
+<br>
 
 ## NLP: Natural Lenguage Processing
 
@@ -67,6 +71,7 @@ Github: [NLP-Natural-Language-Processing](https://sergiomora03.github.io/NLP-Nat
 |API AWS|[Movie Genre Prediction API](http://ec2-18-218-221-161.us-east-2.compute.amazonaws.com:5000)|
 |Dataset|[Kaggle](https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/data)|
 
+<br>
 
 ## Supply Chain Analytics
 
@@ -100,3 +105,4 @@ Github: [Supply-Chain-Analytics](https://sergiomora03.github.io/Supply-Chain-Ana
 |Location *n* facilities|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Locating%20n%20Facilities.ipynb)|
 |Two-product Transportation Problem|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Two-product%20Transportation.ipynb)|
 
+<br>
