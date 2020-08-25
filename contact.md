@@ -9,7 +9,7 @@ share-img: /assets/img/jeremy-thomas-rMmibFe4czY-unsplash.jpg
 
 ## Contact
 
-* **Website** [www.sergiomorapardo.com](https://www.sergiomorapardo.com)
+* **Website** [www.sergiomorapardo.com](https://sergiomora03.github.io/me/)
 * **LinkedIn** [sergiomorapardo](https://www.linkedin.com/in/sergiomorapardo/)
 * **Github** [sergiomora03](https://github.com/sergiomora03)
 * **E-mail** [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com)
