@@ -15,6 +15,7 @@ navbar-links:
   Works:
     - Working Papers: "workingpapers"
     - Class Work: "classwork"
+  Contact: "contact"
   Link me:
     - Github: "https://github.com/sergiomora03"
     - Rpubs: "https://rpubs.com/sergiomora123"
