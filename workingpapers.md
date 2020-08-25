@@ -1,3 +1,5 @@
+# Working Papers
+
 ##  2019
 
 [**“Light Innovation In Energy Supply For Nonconnected Areas In Colombia: Partial Research Via The Forgotten Effects Model”**](https://link.springer.com/chapter/10.1007/978-3-030-15413-4_4). **BOOK:** _Modelling And Simulation In Management Sciences_. Springer International Publishing. Series: Advances In Intelligent Systems And Computing, Volume 894.
